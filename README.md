@@ -86,7 +86,7 @@ This project demonstrates an **agentic AI architecture** where Claude acts as th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crypto-research-agent.git
+   git clone https://github.com/itaiwins/crypto-research-agent.git
    cd crypto-research-agent
    ```
 
