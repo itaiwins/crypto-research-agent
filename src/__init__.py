@@ -6,4 +6,4 @@ fetching real-time price data, and gathering recent news.
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
+__author__ = "Itai Wins"
